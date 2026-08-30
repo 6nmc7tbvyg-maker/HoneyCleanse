@@ -1,0 +1,5 @@
+name: HoneyCleanse
+version: 1.0.0
+main: com.example.honeycleanse.HoneyCleanse
+api-version: '1.21'
+description: Drinking a Honey Bottle removes negative potion effects while keeping Omen effects.
